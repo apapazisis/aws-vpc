@@ -1,2 +1,1 @@
-![Logo](./Unbenanntes Diagramm.drawio.png)
-
+![My Diagram](/Unbenanntes Diagramm.drawio.png)
