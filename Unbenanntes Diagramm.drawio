@@ -41,7 +41,7 @@
           <mxGeometry height="60" width="60" x="640" y="20" as="geometry" />
         </mxCell>
         <mxCell id="MQdK7ZkR_m5TAOODxWW0-84" parent="DK2l6iqqoa9AwBbSnObA-5" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;labelBackgroundColor=none;labelBorderColor=none;" value="Route table" vertex="1">
-          <mxGeometry height="80" width="202" x="861" y="640" as="geometry" />
+          <mxGeometry height="80" width="202" x="861" y="650" as="geometry" />
         </mxCell>
         <mxCell id="MQdK7ZkR_m5TAOODxWW0-85" parent="MQdK7ZkR_m5TAOODxWW0-84" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="25" width="202" y="30" as="geometry" />
@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MQdK7ZkR_m5TAOODxWW0-77" parent="DK2l6iqqoa9AwBbSnObA-5" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;labelBackgroundColor=none;labelBorderColor=none;" value="Route table" vertex="1">
-          <mxGeometry height="80" width="201" x="567.5" y="640" as="geometry" />
+          <mxGeometry height="80" width="201" x="567.5" y="650" as="geometry" />
         </mxCell>
         <mxCell id="MQdK7ZkR_m5TAOODxWW0-78" parent="MQdK7ZkR_m5TAOODxWW0-77" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="25" width="201" y="30" as="geometry" />
@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MQdK7ZkR_m5TAOODxWW0-70" parent="DK2l6iqqoa9AwBbSnObA-5" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;labelBackgroundColor=none;labelBorderColor=none;" value="Route table" vertex="1">
-          <mxGeometry height="80" width="202" x="277" y="640" as="geometry" />
+          <mxGeometry height="80" width="202" x="277" y="650" as="geometry" />
         </mxCell>
         <mxCell id="MQdK7ZkR_m5TAOODxWW0-71" parent="MQdK7ZkR_m5TAOODxWW0-70" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="" vertex="1">
           <mxGeometry height="25" width="202" y="30" as="geometry" />
@@ -155,6 +155,18 @@
           <mxGeometry height="25" width="101" x="102" as="geometry">
             <mxRectangle height="25" width="101" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RnC1_jULZP5yWk_ZBpSl-11" parent="DK2l6iqqoa9AwBbSnObA-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="All 3 public networks are associated with this route table" vertex="1">
+          <mxGeometry height="30" width="200" x="30" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RnC1_jULZP5yWk_ZBpSl-12" parent="DK2l6iqqoa9AwBbSnObA-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Associated with private network 10.0.48.0/20" vertex="1">
+          <mxGeometry height="30" width="203" x="277" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="RnC1_jULZP5yWk_ZBpSl-13" parent="DK2l6iqqoa9AwBbSnObA-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Associated with private network 10.0.64.0/20" vertex="1">
+          <mxGeometry height="30" width="203" x="565.5" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="RnC1_jULZP5yWk_ZBpSl-14" parent="DK2l6iqqoa9AwBbSnObA-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Associated with private network 10.0.80.0/20" vertex="1">
+          <mxGeometry height="30" width="203" x="860" y="740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
