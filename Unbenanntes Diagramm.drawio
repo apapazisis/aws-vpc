@@ -180,6 +180,9 @@
         <mxCell id="-D6CMnWgGGUAY2Ygljte-6" parent="DK2l6iqqoa9AwBbSnObA-5" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="50" width="54" x="276" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="-D6CMnWgGGUAY2Ygljte-7" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" value="" vertex="1">
+          <mxGeometry height="60" width="95.24" x="252.38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
