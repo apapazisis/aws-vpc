@@ -1,1 +1,1 @@
-![My Diagram](/diagramm.drawio.png)
+![Diagram](/diagramm.drawio.png)
