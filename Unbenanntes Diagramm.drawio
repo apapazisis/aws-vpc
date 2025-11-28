@@ -161,7 +161,7 @@
           <mxGeometry height="60" width="60" x="540" y="10" as="geometry" />
         </mxCell>
         <mxCell id="MQdK7ZkR_m5TAOODxWW0-1" parent="DK2l6iqqoa9AwBbSnObA-5" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance;fillColor=#2E73B8;gradientColor=none;" value="Writer" vertex="1">
-          <mxGeometry height="60" width="49" x="156.25" y="560" as="geometry" />
+          <mxGeometry height="60" width="49" x="219" y="570" as="geometry" />
         </mxCell>
         <mxCell id="-D6CMnWgGGUAY2Ygljte-12" parent="DK2l6iqqoa9AwBbSnObA-5" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_standby_multi_az;fillColor=#2E73B8;gradientColor=none;" value="StandBy" vertex="1">
           <mxGeometry height="66" width="49.5" x="590" y="554" as="geometry" />
