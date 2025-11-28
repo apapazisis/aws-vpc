@@ -199,7 +199,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-D6CMnWgGGUAY2Ygljte-7" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" value="" vertex="1">
-          <mxGeometry height="60" width="95.24" x="192.38" y="30" as="geometry" />
+          <mxGeometry height="60" width="95.24" x="212.38" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
